@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [tokas.dev](tokas.dev)
+- 👨‍💻 All of my projects are available at (website under construction)[tokas.dev](tokas.dev)
 
 - 📫 How to reach me **ravitokas90@gmail.com**
 
