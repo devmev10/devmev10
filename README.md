@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ravi Tokas</h1>
 <h3 align="center">A full stack web developer</h3>
 
-- 🔭 I’m currently working on **a Fun calculator app**
+- 🔭 I’m currently working on **a Flight Tracker**
 
 - 🌱 I’m currently learning **React**
 
