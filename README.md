@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Flight Tracker**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [rTokas.com](rtokas.com)
 
