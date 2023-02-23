@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Flight Tracker**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Solidity/Web3.js**
 
 - 👨‍💻 All of my projects are available at [rTokas.com](rtokas.com)
 
