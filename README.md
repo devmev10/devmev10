@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ravi Tokas</h1>
 <h3 align="center">A full stack web developer</h3>
 
-- 🔭 I’m currently working on **an AI based Travel Planner**
+- 🔭 I’m currently working on **[an AI based Travel Planner](www.aiTravel.live)**
 
 - 🌱 I’m currently learning **Solidity/Web3.js**
 
