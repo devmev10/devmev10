@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Ravi Tokas</h1>
 <h3 align="center">A full stack web developer</h3>
 
-- 🔭 I’m currently working on my **[AI based Travel app](aiTravel.live)**
+- 🔭 I’m currently working on my **[AI based Travel app](https://aiTravel.live)**
 
 - 🌱 I’m currently learning **Solidity/Web3.js**
 
-- 👨‍💻 All of my projects are available at [rTokas.com](rtokas.com)
+- 👨‍💻 All of my projects are available at [rTokas.com](https://rtokas.com)
 
 - 📫 How to reach me **ravitokas90@gmail.com**
 
