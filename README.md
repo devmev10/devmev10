@@ -3,10 +3,6 @@
 
 - 🔭 I’m currently working on my **[AI based Travel app](https://aiTravel.live)**
 
-- 🌱 I’m currently learning **Solidity/Web3.js**
-
-- 👨‍💻 All of my projects are available at [rTokas.com](https://rtokas.com)
-
 - 📫 How to reach me **ravitokas90@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
